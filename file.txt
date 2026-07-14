@@ -1,0 +1,5 @@
+cd C:\Users\user\OneDrive\Documents\Weather\weatherapp
+
+mvn compile
+
+mvn exec:java
