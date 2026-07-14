@@ -13,7 +13,7 @@ import com.suvham.model.Weather;
 
 public class WeatherService {
 
-    private static final String API_KEY = "9218a79d56bc58974a677b5cbc6352b6";
+    private static final String API_KEY = "YOUR_API_KEY";
 
     private static final String BASE_URL =
             "https://api.openweathermap.org/data/2.5/weather";
